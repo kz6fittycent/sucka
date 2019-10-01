@@ -8,6 +8,7 @@ echo "          UPDATES SUCKA!!!"
 echo ""
 echo "------------------------------------"
 echo ""
+echo "         DATE:  $(date +%F)"
 echo ""
 sleep 3
 
